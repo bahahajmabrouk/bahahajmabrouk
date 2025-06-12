@@ -1,5 +1,19 @@
-## Hi there 👋
 
+<h1 align="center">👋 Welcome to bahahajmabrouk's GitHub Profile!</h1>
+
+<p align="center">
+  <strong>🚀 Cross-Platform & Backend Developer</strong><br>
+  <em>Crafting elegant solutions with Flutter & NestJS</em>
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 Student Engineer passionate about **Mobile & Backend Development**
+- 💡 Currently working with **Flutter (iOS/Android)** and **NestJS (Node.js Framework)**
+- 📚 Constantly learning new tools and technologies
+- 🌍 Based in Tunisia
 <!--
 **bahahajmabrouk/bahahajmabrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
